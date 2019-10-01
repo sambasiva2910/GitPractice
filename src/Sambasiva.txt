@@ -1,0 +1,7 @@
+public class Sambasiva{
+public static void main(String[] args){
+
+System.out.println("Welcome to the Devops classes");
+System.ou.println("This is developed by Sambasiva");
+   }
+}
